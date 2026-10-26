@@ -261,9 +261,9 @@ This led to a corrective-action objective: detect loss of utility power while th
 
 ---
 
-## 10. Engineering Philosophy — “Pretty, Not Practical”
+## 10. Engineering Philosophy — “Pretty is not Practical”
 
-My operating principle is **“Pretty, Not Practical”**: avoid purchasing attractive, prestigious, or unnecessarily sophisticated equipment when a simpler existing solution can satisfy the operational requirement.
+My operating principle is **“Pretty is not Practical”**: avoid purchasing attractive, prestigious, or unnecessarily sophisticated equipment when a simpler existing solution can satisfy the operational requirement.
 
 For this incident, the objective was not to replace a functioning UPS or build a new monitoring stack merely because those solutions were available. The objective was to add **reliable, actionable power-state visibility** with the least justified cost and operational complexity.
 
