@@ -18,7 +18,7 @@ The full operational inventory remains private. This portfolio version excludes 
 |---|---|---|---|
 | NET-001 | Protectli appliance / OPNsense | Firewall and routing | Active |
 | NET-002 | Aruba 2930F 24G PoE | Managed core switching | Active |
-| NET-003 | UniFi U6 Enterprise access points | Wireless connectivity | Active; quantity to reconcile |
+| NET-003 | UniFi U6 Enterprise access points | Wireless connectivity | Active; 3 |
 | SRV-001 | HP Z2 Tower G4 | Virtualization host | Active |
 | END-001 | Lenovo ThinkPad T14 Gen 3 | Primary administrator workstation | Active |
 | END-002 | Lenovo ThinkPad T480 | Secondary workstation / test system | Active |
