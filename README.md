@@ -25,6 +25,7 @@ My professional background includes clinical practice, healthcare education, and
 - **[02 — Incident Response](02_Incident_Response/):** Troubleshooting, root-cause analysis, service restoration and recovery decisions.
 - **[03 — Hardware & Infrastructure](03_Hardware_and_Infrastructure/):** Sanitized equipment inventory, lifecycle tracking and dated maintenance history.
 - **[04 — Operational Procedures](04_Operational_Procedures/):** [Hardware service and maintenance checklist](04_Operational_Procedures/Hardware_Service_and_Maintenance_Checklist.md), with further runbooks added after review.
+- **[05 — Professional Journal](05_Professional_Journal/):** Original chronological reflections on technical learning, operational judgment and professional development.
 
 ## Operational approach
 
