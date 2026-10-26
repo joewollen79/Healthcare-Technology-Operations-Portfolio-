@@ -17,13 +17,14 @@ My professional background includes clinical practice, healthcare education, and
 | Network Power Failure | Incident response, Linux diagnostics, root-cause analysis, recovery | [Read case study](02_Incident_Response/Network_Power_Failure.md) |
 | MikroTik CRS305 Hardware Recovery | Hardware recovery, vendor procedures, repair-versus-retire judgment | [Read case study](02_Incident_Response/Hardware_Recovery.md) |
 | Hardware Inventory & Asset Lifecycle | Asset register, maintenance history, lifecycle status, equipment accountability | [View asset inventory](03_Hardware_and_Infrastructure/Asset_Management.md) |
+| Hardware Service & Maintenance Checklist | Service intake, safety, fault isolation, recovery, verification, asset closeout | [View operational procedure](04_Operational_Procedures/Hardware_Service_and_Maintenance_Checklist.md) |
 
 ## How the work is organized
 
 - **[01 — Change Management](01_Change_Management/):** Planned infrastructure changes, maintenance, backups and post-change verification.
 - **[02 — Incident Response](02_Incident_Response/):** Troubleshooting, root-cause analysis, service restoration and recovery decisions.
 - **[03 — Hardware & Infrastructure](03_Hardware_and_Infrastructure/):** Sanitized equipment inventory, lifecycle tracking and dated maintenance history.
-- **[04 — Operational Procedures](04_Operational_Procedures/):** Operational procedures and runbooks as they are reviewed for publication.
+- **[04 — Operational Procedures](04_Operational_Procedures/):** [Hardware service and maintenance checklist](04_Operational_Procedures/Hardware_Service_and_Maintenance_Checklist.md), with further runbooks added after review.
 
 ## Operational approach
 
