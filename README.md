@@ -59,3 +59,7 @@ My career has centered on clinical work, education and helping people navigate c
 ---
 
 **Portfolio note:** The public asset inventory is a curated, sanitized view of a more detailed private master register. It is based on dated records and does not imply that every listed firmware version or physical asset has been independently re-audited on the publication date.
+
+
+## Documentation provenance
+Public portfolio material is sanitized and verified; internal AI operating governance is maintained separately in a private repository. Do not publish private governance records, PHI, credentials, or network secrets.
