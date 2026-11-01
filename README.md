@@ -8,6 +8,15 @@ My professional background includes clinical practice, healthcare education, and
 
 > **Scope:** These are independently managed infrastructure projects, **not** claims of paid enterprise IT employment, hospital IT administration, or medical-device repair experience. Case studies have been sanitized to remove sensitive network and household details.
 
+## Featured monitoring and observability
+
+| Project | Demonstrated capabilities | Case study |
+|---|---|---|
+| Indoor/outdoor environmental observability | Sensor integration, historical trends, Flux queries, Grafana state timelines, validation | [Environmental monitoring](06_Monitoring/Environmental_Observability_Case_Study.md) |
+| Network observability | LibreNMS, InfluxDB, Grafana, Linux diagnostics, fault isolation and least-privilege integration | [Network monitoring](06_Monitoring/Network_Observability_Case_Study.md) |
+
+These are independently managed technical projects, not EEG acquisition or hospital medical-device service. Source records remain private; case studies are sanitized.
+
 ## Featured work
 
 | Project | Competencies demonstrated | Case study |
