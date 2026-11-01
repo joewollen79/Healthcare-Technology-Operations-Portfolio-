@@ -28,3 +28,21 @@ Sensor integration, time-series telemetry, data-quality checks, dashboard constr
 
 ## Privacy and provenance
 Sanitized from internal September–November 2026 Training Center records. No household identifiers, medical information, occupancy schedules, internal addresses, live endpoints or credentials. No private screenshots have been copied to this public repository pending image-level review.
+
+## Visual verification — Grafana screenshots
+
+The following screenshots were captured from the operating monitoring environment and retained as dated evidence. They demonstrate historical telemetry visualization, not clinical measurement or certified safety monitoring. The screenshots are illustrative snapshots rather than proof of continuous uptime.
+
+### Outdoor environmental telemetry
+
+![Grafana historical outdoor environmental measurements](outdoor_environment_trends.png)
+
+*Figure 1. Outdoor historical sensor trends displayed in Grafana. Multiple measurements share the panel; units and scale must be interpreted separately by sensor field.*
+
+### Indoor air-quality trends
+
+![Grafana ecobee CO2 VOC and AQI historical trends](ecobee_air_quality_trends.png)
+
+*Figure 2. Ecobee CO₂ and reported VOC/AQI historical trends displayed in Grafana. Source-reported VOC/AQI readings should not be treated as interchangeable with AirGradient VOC Index or as clinical indicators.*
+
+**Evidence limitations:** These images demonstrate functioning dashboards and stored measurements at the time captured. They do not independently establish sensor calibration, clinical validity, or alarm reliability.
